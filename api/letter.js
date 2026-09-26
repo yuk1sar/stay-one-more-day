@@ -1,7 +1,6 @@
 import { createWebLetter } from '../lib/web-letter.js';
 import { createHash } from 'node:crypto';
 
-// Best-effort per-instance throttle; use Vercel Firewall for distributed limits.
 const recent = new Map();
 export default async function handler(req, res) {
   res.setHeader('Cache-Control', 'no-store');
@@ -38,7 +37,6 @@ export default async function handler(req, res) {
     if (!response.ok || !data.ok) return res.status(502).json({ code: 'failed' });
     return res.status(200).json({ ok: true });
   } catch {
-    // Never log message contents, credentials, or upstream errors containing URLs.
     return res.status(504).json({ code: 'uncertain' });
   }
 }
