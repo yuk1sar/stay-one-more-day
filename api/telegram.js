@@ -78,7 +78,6 @@ export default async function handler(req, res) {
     handled.set(update.update_id, now + 300_000);
     return res.status(200).json({ok:true});
   } catch {
-    // Confirmation buttons are consumed before forwarding; draft/menu replies may be retried.
     return res.status(502).json({ok:false});
   } finally { inFlight.delete(update.update_id); }
 }
