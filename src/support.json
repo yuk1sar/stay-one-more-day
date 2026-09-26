@@ -1,0 +1,38 @@
+{
+  "ru": {
+    "nav":"Как помочь близкому", "eyebrow":"РЯДОМ С ТЕМ, КОМУ ТРУДНО", "title":"КАК ПОМОЧЬ БЛИЗКОМУ.",
+    "intro":"Не нужно находить идеальные слова. Начни с внимания и готовности слушать.",
+    "steps":[
+      ["Спроси прямо и спокойно", "«Я переживаю за тебя. Ты думаешь о самоубийстве?» Прямой вопрос помогает начать честный разговор."],
+      ["Выслушай без спора", "«Спасибо, что рассказал. Я рядом». Не сравнивай боль и не говори «просто соберись». Не обещай хранить в тайне угрозу жизни."],
+      ["Помоги быть в безопасности", "При непосредственной опасности не оставляй человека одного, если это безопасно для тебя. Вызови местную экстренную помощь. Если вы далеко — узнай, где он, и свяжись с помощью по его месту нахождения."],
+      ["Найдите поддержку вместе", "Предложи вместе позвонить на линию помощи или обратиться к специалисту. Помоги связаться с надёжным человеком рядом. Не бери всё только на себя."],
+      ["Останься на связи", "Договоритесь о следующем звонке или встрече. Спроси позже, как человек себя чувствует. Тебе тоже можно обратиться за поддержкой."]
+    ],
+    "cta":"Найти контакты помощи ↗", "source":"Основа рекомендаций: NIMH — пять шагов поддержки ↗"
+  },
+  "en": {
+    "nav":"Help someone close", "eyebrow":"BE THERE FOR SOMEONE", "title":"HELP SOMEONE CLOSE.",
+    "intro":"You do not need perfect words. Start by paying attention and being ready to listen.",
+    "steps":[
+      ["Ask calmly and directly", "“I’m worried about you. Are you thinking about suicide?” A direct question can open an honest conversation."],
+      ["Listen without arguing", "“Thank you for telling me. I’m here.” Do not compare their pain or tell them to “just get over it”. Do not promise secrecy when a life is at risk."],
+      ["Help them stay safe", "In immediate danger, stay with them if it is safe for you and call local emergency services. If you are far away, find out where they are and contact help in their location."],
+      ["Find support together", "Offer to call a helpline together or contact a professional. Help them connect with someone trustworthy nearby. You do not have to carry this alone."],
+      ["Keep in touch", "Arrange another call or visit. Check in on how they are feeling. You can seek support for yourself too."]
+    ],
+    "cta":"Find support contacts ↗", "source":"Based on NIMH’s five action steps ↗"
+  },
+  "az": {
+    "nav":"Yaxınına necə kömək etməli", "eyebrow":"ÇƏTİNLİK YAŞAYANIN YANINDA OL", "title":"YAXININA NECƏ KÖMƏK ETMƏLİ.",
+    "intro":"Mükəmməl sözlər tapmaq lazım deyil. Diqqət göstərməkdən və dinləməyə hazır olmaqdan başla.",
+    "steps":[
+      ["Sakit və birbaşa soruş", "«Sənin üçün narahatam. İntihar haqqında düşünürsən?» Birbaşa sual səmimi söhbətə başlamağa kömək edə bilər."],
+      ["Mübahisə etmədən dinlə", "«Mənə danışdığın üçün sağ ol. Yanındayam». Ağrısını başqalarınınkı ilə müqayisə etmə və «özünü ələ al» demə. Həyatı təhlükədədirsə, bunu sirr saxlamağa söz vermə."],
+      ["Təhlükəsiz qalmasına kömək et", "Birbaşa təhlükə varsa, sənin üçün təhlükəsiz olduğu halda onu tək qoyma və yerli təcili yardım xidmətinə zəng et. Uzaqdasınızsa, harada olduğunu öyrən və olduğu yerdəki yardım xidmətləri ilə əlaqə saxla."],
+      ["Birlikdə dəstək tapın", "Birlikdə dəstək xəttinə zəng etməyi və ya mütəxəssisə müraciət etməyi təklif et. Yaxınlıqdakı etibarlı biri ilə əlaqə qurmasına kömək et. Bütün yükü tək üzərinə götürmə."],
+      ["Əlaqədə qal", "Növbəti zəng və ya görüş üçün vaxt razılaşdırın. Sonra özünü necə hiss etdiyini soruş. Sən də dəstək istəyə bilərsən."]
+    ],
+    "cta":"Yardım əlaqələrini tap ↗", "source":"Mənbə: NIMH — dəstək üçün beş addım ↗"
+  }
+}

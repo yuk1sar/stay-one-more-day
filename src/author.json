@@ -1,0 +1,35 @@
+{
+  "ru": {
+    "title": "Лично от автора",
+    "paragraphs": [
+      "Я не знаю твоего имени и всего, через что тебе пришлось пройти, но хочу, чтобы ты услышал: я горжусь тобой. За то, что ты продолжаешь жить, хотя порой это требует сил, которых, кажется, уже не осталось.",
+      "Впереди ещё могут быть песни, которые ты полюбишь с первых нот, люди, рядом с которыми получится быть собой, и дни, когда смех снова будет даваться легко. Сейчас всё это может казаться далёким, но сегодняшний день не вмещает в себя всё твоё будущее.",
+      "Если самоубийство кажется единственным выходом, пожалуйста, расскажи об этом человеку, которому доверяешь, или обратись за помощью. Боль может стать меньше, и тебе не нужно оставаться с ней один на один.",
+      "Я верю в тебя — даже сейчас, когда тебе самому трудно в себя поверить. Верю, что с поддержкой ты сможешь пройти через это и найти то, ради чего захочется встречать утро. Тебе ещё предстоит многое узнать, почувствовать и полюбить, и я очень хочу, чтобы у тебя было это время."
+    ],
+    "closing": "Пожалуйста, останься",
+    "emphasis": "ЕЩЕ НА ОДИН ДЕНЬ."
+  },
+  "en": {
+    "title": "A personal note from the author",
+    "paragraphs": [
+      "I don’t know your name or everything you’ve been through, but I want you to hear this: I’m proud of you. Proud that you’re still here, even when staying takes strength you feel you no longer have.",
+      "There may still be songs you’ll love from the first few notes, people you can be yourself around, and days when laughter comes easily again. All of that may feel far away right now, but this one day does not hold your whole future.",
+      "If suicide feels like the only way out, please tell someone you trust or reach out for help. The pain can ease, and you don’t have to face it alone.",
+      "I believe in you, even now, when believing in yourself is hard. I believe that with support, you can get through this and find something that makes you want to welcome another morning. There is still so much for you to discover, feel and love, and I want you to have that time."
+    ],
+    "closing": "Please stay",
+    "emphasis": "ONE MORE DAY."
+  },
+  "az": {
+    "title": "Müəllifdən sənə bir neçə söz",
+    "paragraphs": [
+      "Adını və nələr yaşadığını bilmirəm, amma bunu eşitməyini istəyirəm: səninlə fəxr edirəm. Bəzən yaşamağa davam etmək üçün artıq qalmadığını düşündüyün gücə ehtiyac duysan da, hələ buradasan.",
+      "Qarşıda ilk notlarından sevəcəyin mahnılar, yanında özün ola biləcəyin insanlar və yenidən ürəkdən güləcəyin günlər ola bilər. İndi bütün bunlar uzaq görünə bilər, amma bu gün sənin bütün gələcəyin deyil.",
+      "İntihar yeganə çıxış yolu kimi görünürsə, lütfən, bunu güvəndiyin birinə danış və ya kömək istə. Ağrın yüngülləşə bilər və onunla təkbaşına üzləşmək məcburiyyətində deyilsən.",
+      "Sən özünə inanmaqda çətinlik çəkəndə belə, mən sənə inanıram. İnanıram ki, dəstəklə bu günləri geridə qoya və səhərləri qarşılamaq istəyini yenidən tapa bilərsən. Hələ öyrənəcəyin, hiss edəcəyin və sevəcəyin çox şey var və bütün bunlar üçün vaxtının olmasını çox istəyirəm."
+    ],
+    "closing": "Lütfən, qal —",
+    "emphasis": "DAHA BİR GÜN."
+  }
+}

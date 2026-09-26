@@ -1,0 +1,14 @@
+{
+"ru": {
+"title":"ОСТАНЬСЯ ЕЩЁ НА ДЕНЬ — пространство поддержки", "description":"Небольшое пространство поддержки. Один шаг, десять минут, ещё один день. Контакты помощи и личная заметка.", "languageLabel":"Язык сайта", "timerLabel":"Осталось {minutes} минут {seconds} секунд",
+"quoteHeading":"СЛОВА О ПОДДЕРЖКЕ", "quoteTranslation":"«Если тебе настолько тяжело, обратись к кому-нибудь. И помни: самоубийство — необратимое решение временной проблемы».", "quoteAttribution":"Атрибуция по QuoteFancy; первоисточник не подтверждён.", "quoteContext":"Твоя боль реальна, даже если она длится долго. Ты заслуживаешь помощи сейчас."
+},
+"en": {
+"title":"STAY ONE MORE DAY — a space for support", "description":"A small space for support. One step, ten minutes, one more day. Find help and leave a private note.", "languageLabel":"Site language", "timerLabel":"{minutes} minutes {seconds} seconds remaining",
+"quoteHeading":"WORDS ABOUT REACHING OUT", "quoteTranslation":"", "quoteAttribution":"Attributed by QuoteFancy; the original source has not been verified.", "quoteContext":"Your pain is real, even if it has lasted a long time. You deserve support now."
+},
+"az": {
+"title":"DAHA BİR GÜN QAL — dəstək məkanı", "description":"Kiçik bir dəstək məkanı. Bir addım, on dəqiqə, daha bir gün. Yardım əlaqələri və şəxsi qeyd.", "languageLabel":"Saytın dili", "timerLabel":"{minutes} dəqiqə {seconds} saniyə qalıb",
+"quoteHeading":"DƏSTƏK HAQQINDA SÖZLƏR", "quoteTranslation":"«Özünü bu qədər pis hiss edirsənsə, kiməsə müraciət et. Və unutma: intihar müvəqqəti problemin geri dönüşü olmayan həllidir».", "quoteAttribution":"QuoteFancy bu sözləri Robin Williamsa aid edir; ilkin mənbə təsdiqlənməyib.", "quoteContext":"Uzun müddət davam etsə belə, ağrın gerçəkdir. Sən elə indi dəstəyə layiqsən."
+}
+}
